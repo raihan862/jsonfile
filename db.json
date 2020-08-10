@@ -1,13 +1,29 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello2"
-    }
-    
-  ] 
-}
+    "name": "raihan"
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      },
+      {
+        "id": 2,
+        "title": "hello2"
+      }
+    ] 
+  },
+ {
+    "name": "kabir"
+    "posts": [
+      {
+        "id": 3,
+        "title": "hello"
+      },
+      {
+        "id": 4,
+        "title": "hello2"
+      }
+    ] 
+  },
+
+]
